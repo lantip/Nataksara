@@ -10,8 +10,8 @@ Tata letak papan tombol aksara Jawa mengikuti standar yang ditetapkan oleh Kongr
 ## Install
 For Mac OS: 
 ---
-1. Download `KAJ 1.dmg`
-2. Double click `KAJ 1.dmg`
+1. Go to [relase page](https://github.com/lantip/Nataksara/releases), and download Nataksara.v1.0.1.dmg
+2. Open `Nataksara.v1.0.1.dmg`
 3. Click `Keyboard Installer`
-4. Drag `KAJ 1.keylaout` to keyboard installer screen.
+4. Drag `Nataksara v1.0.1.keylaout` to keyboard installer screen.
 5. Click one of the `people` icon.
