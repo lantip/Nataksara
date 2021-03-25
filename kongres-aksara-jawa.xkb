@@ -1,49 +1,49 @@
-02	1		0	a9d1	a9b5	NoSymbol		// <null>, <null>, <none>
-03	2		0	a9d2	a9cf	NoSymbol		// <null>, <null>, <none>
-04	3		0	a9d3	a9c6	NoSymbol		// <null>, <null>, <none>
-05	4		0	a9d4	a9de	NoSymbol		// <null>, <null>, <none>
-06	5		0	a9d5	a9df	NoSymbol		// <null>, <null>, <none>
-07	6		0	a9d6	a9c3	NoSymbol		// <null>, <null>, <none>
-08	7		0	a9d7	a9c4	NoSymbol		// <null>, <null>, <none>
-09	8		0	a9d8	a9c5	NoSymbol		// <null>, <null>, <none>
-0a	9		0	a9d9	a9cc	NoSymbol		// <null>, <null>, <none>
-0b	0		0	a9d0	a9cd	NoSymbol		// <null>, <null>, <none>
-0c	OEM_MINUS	0	a9b3	a9b7	NoSymbol		// <null>, <null>, <none>
-0d	OEM_PLUS	0	a980	a999	NoSymbol		// <null>, <null>, <none>
-10	Q		0	a9c0	a990	NoSymbol		// <null>, <null>, <none>
-11	W		0	a9ae	a9bb	NoSymbol		// <null>, <null>, <none>
-12	E		0	a9ba	a98c	NoSymbol		// <null>, <null>, <none>
-13	R		0	a9ab	a9bf	NoSymbol		// <null>, <null>, <none>
-14	T		0	a9a0	a9a1	NoSymbol		// <null>, <null>, <none>
-15	Y		0	a9aa	a9be	NoSymbol		// <null>, <null>, <none>
-16	U		0	a9b8	a988	NoSymbol		// <null>, <null>, <none>
-17	I		0	a9b6	a986	NoSymbol		// <null>, <null>, <none>
-18	O		0	%%	a98e	NoSymbol		// <null>, <null>, <none>
-19	P		0	a9a5	a9a6	NoSymbol		// <null>, <null>, <none>
-1a	OEM_4		0	a981	a9c1	NoSymbol		// <null>, <null>, <none>
-1b	OEM_6		0	a982	a9c2	NoSymbol		// <null>, <null>, <none>
-1e	A		0	a994	a984	NoSymbol		// <null>, <null>, <none>
-1f	S		0	a9b1	a9af	NoSymbol		// <null>, <null>, <none>
-20	D		0	a9a2	a9a3	NoSymbol		// <null>, <null>, <none>
-21	F		0	a989	a9bd	NoSymbol		// <null>, <null>, <none>
-22	G		0	a992	a993	NoSymbol		// <null>, <null>, <none>
-23	H		0	a9b2	a983	NoSymbol		// <null>, <null>, <none>
-24	J		0	a997	a998	NoSymbol		// <null>, <null>, <none>
-25	K		0	a98f	a991	NoSymbol		// <null>, <null>, <none>
-26	L		0	a9ad	a9b4	NoSymbol		// <null>, <null>, <none>
-27	OEM_1		0	a99d	a99e	NoSymbol		// <null>, <null>, <none>
-28	OEM_7		0	a99b	a99c	NoSymbol		// <null>, <null>, <none>
-29	OEM_3		0	a9c7	a9ca	NoSymbol		// <null>, <null>, <none>
-2b	OEM_5		0	200c	200b	NoSymbol		// ZERO WIDTH NON-JOINER, ZERO WIDTH SPACE, <none>
-2c	Z		0	a99a	a9b0	NoSymbol		// <null>, <null>, <none>
-2d	X		0	a9bc	a9ac	NoSymbol		// <null>, <null>, <none>
-2e	C		0	a995	a996	NoSymbol		// <null>, <null>, <none>
-2f	V		0	a98a	a98b	NoSymbol		// <null>, <null>, <none>
-30	B		0	a9a7	a9a8	NoSymbol		// <null>, <null>, <none>
-31	N		0	a9a4	a98d	NoSymbol		// <null>, <null>, <none>
-32	M		0	a9a9	a9b9	NoSymbol		// <null>, <null>, <none>
-33	OEM_COMMA	0	a9c8	a99f	NoSymbol		// <null>, <null>, <none>
-34	OEM_PERIOD	0	a9c9	a985	NoSymbol		// <null>, <null>, <none>
-35	OEM_2		0	a9cb	a987	NoSymbol		// <null>, <null>, <none>
-39	SPACE		0	0020	0020	NoSymbol		// SPACE, SPACE, <none>
-53	DECIMAL	0	002e	002e	NoSymbol		// FULL STOP, FULL STOP,
+	key <AE01> { [ 0, Ua9d1, Ua9b5, NoSymbol ] }; // <null>, <null>, <none>
+	key <AE02> { [ 0, Ua9d2, Ua9cf, NoSymbol ] }; // <null>, <null>, <none>
+	key <AE03> { [ 0, Ua9d3, Ua9c6, NoSymbol ] }; // <null>, <null>, <none>
+	key <AE04> { [ 0, Ua9d4, Ua9de, NoSymbol ] }; // <null>, <null>, <none>
+	key <AE05> { [ 0, Ua9d5, Ua9df, NoSymbol ] }; // <null>, <null>, <none>
+	key <AE06> { [ 0, Ua9d6, Ua9c3, NoSymbol ] }; // <null>, <null>, <none>
+	key <AE07> { [ 0, Ua9d7, Ua9c4, NoSymbol ] }; // <null>, <null>, <none>
+	key <AE08> { [ 0, Ua9d8, Ua9c5, NoSymbol ] }; // <null>, <null>, <none>
+	key <AE09> { [ 0, Ua9d9, Ua9cc, NoSymbol ] }; // <null>, <null>, <none>
+	key <AE10> { [ 0, Ua9d0, Ua9cd, NoSymbol ] }; // <null>, <null>, <none>
+	key <AE11> { [ 0, Ua9b3, Ua9b7, NoSymbol ] }; // <null>, <null>, <none>
+	key <AE12> { [ 0, Ua980, Ua999, NoSymbol ] }; // <null>, <null>, <none>
+	key <AD01> { [ 0, Ua9c0, Ua990, NoSymbol ] }; // <null>, <null>, <none>
+	key <AD02> { [ 0, Ua9ae, Ua9bb, NoSymbol ] }; // <null>, <null>, <none>
+	key <AD03> { [ 0, Ua9ba, Ua98c, NoSymbol ] }; // <null>, <null>, <none>
+	key <AD04> { [ 0, Ua9ab, Ua9bf, NoSymbol ] }; // <null>, <null>, <none>
+	key <AD05> { [ 0, Ua9a0, Ua9a1, NoSymbol ] }; // <null>, <null>, <none>
+	key <AD06> { [ 0, Ua9aa, Ua9be, NoSymbol ] }; // <null>, <null>, <none>
+	key <AD07> { [ 0, Ua9b8, Ua988, NoSymbol ] }; // <null>, <null>, <none>
+	key <AD08> { [ 0, Ua9b6, Ua986, NoSymbol ] }; // <null>, <null>, <none>
+	key <AD09> { [ 0, Ua9ba, Ua98e, NoSymbol ] }; // <null>, <null>, <none>
+	key <AD10> { [ 0, Ua9a5, Ua9a6, NoSymbol ] }; // <null>, <null>, <none>
+	key <AD11> { [ 0, Ua981, Ua9c1, NoSymbol ] }; // <null>, <null>, <none>
+	key <AD12> { [ 0, Ua982, Ua9c2, NoSymbol ] }; // <null>, <null>, <none>
+	key <AC01> { [ 0, Ua994, Ua984, NoSymbol ] }; // <null>, <null>, <none>
+	key <AC02> { [ 0, Ua9b1, Ua9af, NoSymbol ] }; // <null>, <null>, <none>
+	key <AC03> { [ 0, Ua9a2, Ua9a3, NoSymbol ] }; // <null>, <null>, <none>
+	key <AC04> { [ 0, Ua989, Ua9bd, NoSymbol ] }; // <null>, <null>, <none>
+	key <AC05> { [ 0, Ua992, Ua993, NoSymbol ] }; // <null>, <null>, <none>
+	key <AC06> { [ 0, Ua9b2, Ua983, NoSymbol ] }; // <null>, <null>, <none>
+	key <AC07> { [ 0, Ua997, Ua998, NoSymbol ] }; // <null>, <null>, <none>
+	key <AC08> { [ 0, Ua98f, Ua991, NoSymbol ] }; // <null>, <null>, <none>
+	key <AC09> { [ 0, Ua9ad, Ua9b4, NoSymbol ] }; // <null>, <null>, <none>
+	key <AC10> { [ 0, Ua99d, Ua99e, NoSymbol ] }; // <null>, <null>, <none>
+	key <AC11> { [ 0, Ua99b, Ua99c, NoSymbol ] }; // <null>, <null>, <none>
+	key <TLDE> { [ 0, Ua9c7, Ua9ca, NoSymbol ] }; // <null>, <null>, <none>
+	key <BKSL> { [ 0, U200c, U200b, NoSymbol ] }; // ZERO WIDTH NON-JOINER, ZERO WIDTH SPACE, <none>
+	key <AB01> { [ 0, Ua99a, Ua9b0, NoSymbol ] }; // <null>, <null>, <none>
+	key <AB02> { [ 0, Ua9bc, Ua9ac, NoSymbol ] }; // <null>, <null>, <none>
+	key <AB03> { [ 0, Ua995, Ua996, NoSymbol ] }; // <null>, <null>, <none>
+	key <AB04> { [ 0, Ua98a, Ua98b, NoSymbol ] }; // <null>, <null>, <none>
+	key <AB05> { [ 0, Ua9a7, Ua9a8, NoSymbol ] }; // <null>, <null>, <none>
+	key <AB06> { [ 0, Ua9a4, Ua98d, NoSymbol ] }; // <null>, <null>, <none>
+	key <AB07> { [ 0, Ua9a9, Ua9b9, NoSymbol ] }; // <null>, <null>, <none>
+	key <AB08> { [ 0, Ua9c8, Ua99f, NoSymbol ] }; // <null>, <null>, <none>
+	key <AB09> { [ 0, Ua9c9, Ua985, NoSymbol ] }; // <null>, <null>, <none>
+	key <AB10> { [ 0, Ua9cb, Ua987, NoSymbol ] }; // <null>, <null>, <none>
+	key <SPCE> { [ 0, U0020, U0020, NoSymbol ] }; // SPACE, SPACE, <none>
+	key <KPDL> { [ 0, U002e, U002e, NoSymbol ] }; // FULL STOP, FULL STOP,
