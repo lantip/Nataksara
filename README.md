@@ -12,5 +12,5 @@ For Mac OS:
 ---
 1. Go to [relase page](https://github.com/lantip/Nataksara/releases), and download Nataksara.v1.0.1.dmg
 2. Open `Nataksara.dmg`
-3. Drag `Nataksara v1.0.1.keylaout` to `Drag here to install`.
+3. Drag `Nataksara.keylaout` to `Drag here to install`.
 4. Add keyboard from System Preferences > Keyboard > Input Source. Find `Javanese`
