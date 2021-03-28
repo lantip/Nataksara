@@ -11,7 +11,6 @@ Tata letak papan tombol aksara Jawa mengikuti standar yang ditetapkan oleh Kongr
 For Mac OS: 
 ---
 1. Go to [relase page](https://github.com/lantip/Nataksara/releases), and download Nataksara.v1.0.1.dmg
-2. Open `Nataksara.v1.0.1.dmg`
-3. Click `Keyboard Installer`
-4. Drag `Nataksara v1.0.1.keylaout` to keyboard installer screen.
-5. Click one of the `people` icon.
+2. Open `Nataksara.dmg`
+3. Drag `Nataksara v1.0.1.keylaout` to `Drag here to install`.
+4. Add keyboard from System Preferences > Keyboard > Input Source. Find `Javanese`
